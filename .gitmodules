@@ -1,0 +1,3 @@
+[submodule "packages/simple-uniswap-sdk"]
+	path = packages/simple-uniswap-sdk
+	url = https://github.com/uniswap-integration/simple-uniswap-sdk

@@ -16,3 +16,4 @@ useDapp Documentation
    core.rst
    developer-tools.rst
    coingecko.rst
+   chainlink.rst

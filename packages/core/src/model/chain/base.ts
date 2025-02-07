@@ -28,7 +28,7 @@ export const Base: Chain = {
   isTestChain: false,
   isLocalChain: false,
   multicallAddress: '0x38641b7a50CDcfde75a7A83eB7c02581F3279362',
-  rpcUrl: 'https://base.org',
+  rpcUrl: 'https://mainnet.base.org',
   nativeCurrency: {
     name: 'Ether',
     symbol: 'ETH',
